@@ -1,0 +1,30 @@
+_repo: Giant-Hours-with-Poet-Preachers_7115
+creator:
+  author:
+    agent_name: Stidger, William L. (William Le Roy)
+    alias: Stidger, William Le Roy
+    birthdate: 1885
+    deathdate: 1949
+    gutenberg_agent_id: '2342'
+    url: http://www.gutenberg.org/2009/agents/2342
+description: 'American poets: Edwin Markham, Vachel Lindsay, Joaquin Miller, Alan
+  Seeger.--English poets: John Oxenham, Alfred Noyes, John Masefield, Robert Service,
+  Rupert Brooke.'
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7115'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 20th century -- History and criticism'
+- !lcc 'PR'
+- !lcsh 'English poetry -- 20th century -- History and criticism'
+- !lcc 'PS'
+tableOfContents: 'American poets: Edwin Markham. Vachel Lindsay. Joaquin Miller. Alan
+  Seeger -- English poets: John Oxenham. Alfred Noyes. John Masefield. Robert Service.
+  Rupert Brooke.'
+title: Giant Hours with Poet Preachers
+url: http://www.gutenberg.org/ebooks/7115
